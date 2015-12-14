@@ -1,9 +1,0 @@
-[Operation]
-Type=backup
-Canceled=true
-
-[Duplicity]
-Runs=status;dry;backup;
-
-[Duplicity backup]
-Stop=true
